@@ -10,7 +10,7 @@ This is a fork of **Rocket** for Unturned maintained by the game developers (SDG
 2. Copy the Rocket.Unturned module from the Extras directory.
 3. Paste it into the Servers Modules directory.
 4. Start Server
-#### 2.
+#### 2. (preferred for dedicated hosting)
 
 1. Clone this Repo / Download ZIP
 2. Move Content (Rocket.Unturned) into ...Server/Modules/
